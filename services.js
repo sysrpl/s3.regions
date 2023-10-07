@@ -1,7 +1,7 @@
 {
     "amazon": {
         "host": "amazonaws.com",
-        "hostEmpty": "s3.amazonaws.com",
+        "defaultHost": "s3.amazonaws.com",
         "service": "s3",
         "accessId": "AWS_ACCESS_KEY_ID",
         "secretKey": "AWS_SECRET_ACCESS_KEY",
